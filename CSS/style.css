@@ -5,3 +5,12 @@
   color: red;
   font-size: 12px;
 }
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.cat-climate {
+  background-color: yellow;
+}
