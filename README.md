@@ -1,19 +1,13 @@
-# var-day
-#### Thanks for opening my website.This is first website ever.I hope you going to like it.Your contributions will be highly appreciated 5th Feb,2019
+# Independent-Project-Portfolio
+#### Thanks for opening my website.This is first website ever.I hope you going to like it.Your contributions will be highly appreciated 12th Feb,2019
 #### By **lEAH GAKII**
 ## Description
-This being my first website contains some of the things have learned to do to make it a success.I hope you get to like it . I'll highly appreciate your contributions on how to make it as you would love. Will be waiting to here from you.
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-https:github.com/Le07ah57532538/varney.git
+This being my first Project which  contains some of the things have learned to do to make it a success.I hope you get to like it . I'll highly appreciate your contributions on how to make it as you would love. Will be waiting to here from you.
+
+https:github.com/Le07ah57532538/Gakii.git
 ## Known Bugs
 none.
-## Technologies Used
-I used HTML.
+
 ## Support and contact details
 In case you have any questions,ideas or concerns you can contact me at leahgakii74@gmail.com or call 0757532538.By any chance you are interested in making contributions to the code use the above email or call the number above.
 
